@@ -87,7 +87,7 @@ function defineClass(constructor, //A fnction that sets instance properties
 	return constructor;
 }
 
-// This is a simple variant of a Range Class
+// This is a simple variant of a Range Class.
 var  SimpleRange = 
 defineClass(function(f,t) {
 	this.f = f; 
